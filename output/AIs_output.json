@@ -1,0 +1,4008 @@
+{
+  "AIs": [
+    "Toy AI one (random predictions with prob. = 25%)",
+    "Toy AI two (random predictions with prob. = 75%)"
+  ],
+  "outputs": [
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": false
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": true,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    },
+    {
+      "Toy AI one (random predictions with prob. = 25%)": false,
+      "Toy AI two (random predictions with prob. = 75%)": true
+    }
+  ]
+}
