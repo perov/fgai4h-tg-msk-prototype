@@ -5,3 +5,5 @@ Can be run as follows:
 * `python sample.py`
 * `python run_AIs.py`
 * `python calculate_metrics.py`
+
+Contact: tgmskorg@googlegroups.com
